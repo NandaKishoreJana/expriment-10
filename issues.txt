@@ -1,0 +1,6 @@
+ISSUES 1: Practice accounts can breed false confidence.
+ISSUES 2: Automated stock-picking systems can backfire.
+ISSUES 3: Network delays or problems may contribute to the failure of your trades.
+ISSUES 4: It is risky because sometimes, you will miss the trade, or maybe, a problem will arise and affect all traders.
+ISSUES 5: A single trading mistake may cost millions of fortune.
+ISSUES 6: It is not for the faint-hearted.

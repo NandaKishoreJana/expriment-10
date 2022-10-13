@@ -1,0 +1,21 @@
+CASE STUDY: ONLINE SHARE TRADING
+
+Online trading of shares and Dematerialization (DMAT) account is providing by all the leading banks in India to their customers. The criteria for getting DMAT account is the cust-
+-omer requires SB account in the same bank in any branch. The DMAT will provide the details of shares holding in the account. The customer may sell or buy the shares from/to 
+the account. The DMAT will provide the details of shares holding in the account. The customer may sell or buy the shares from/to the account. The minimum criteria for buying 
+shares are the customer has to mantain required balance in the savings account  to buy shares.The crieteria for selling shares are the customer has to maintain balance of shar-
+-es in DMAT account.
+
+Procedure to Buy a share(s):
+
+The customer has to maintain the adequate amount in SB account to buy shares, the required amount is to be blocked for buying shares from market. The blocked amount cann-
+-ot withdraw/transfer to any other accounts. Customer has to identify the shares from the stock market with quantity. The shares are to be purchased in two ways (1) Market pric-
+-e: The shares will be confirmed as per the current market price. (2) Limit price: The shares will be confirmed as the price will come down to limit price.  Once the shares are 
+confirmed, the required amount plus commission will be transferred to bankers account. The shares will be transferred to DMAT account.
+
+Procedure to sell share(s):
+
+The customer has to maintain balance of shares in DMAT account. The customer has to identify the shares needs to sell in the market. The shares are to be sold in two ways. The
+shares are to be sold in two ways. (1) Market price: The shares will be confirmed as per the current market price. (2) Limit price: The shares will be confirmed as the price will rea-
+-ch the limit price. Once the bid of sales confirmed, the shares will be confirmed as the price will reach the limitr price. Once the bid of sales confirmed, the shares will be transfer-
+-red to bankers account. The cumulative shares price minus commision will be transferred to customer bank account.
